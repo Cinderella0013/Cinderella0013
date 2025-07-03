@@ -1,13 +1,14 @@
-<h1 align="center">สวัสดีครับ 👋, ผมชื่อ [ด้า]</h1>
+<h1 align="center">สวัสดีครับ,ผมชื่อ ด้า</h1>
 <h3 align="center">Full-stack Developer / Data Scientist / [อื่นๆ]</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ยินดีต้อนรับ+สู่+โปรไฟล์+ของผม!;นักพัฒนา+ที่+รัก+การเรียนรู้+เทคโนโลยีใหม่ๆ;Let's+build+something+amazing!&center=true&width=500" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=;Let's+build+something+amazing!&center=true&width=500" />
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/8S4eS1tq23gAAAAC/fate-heavens-feel3.gif" width="400"/>
+  <img src="./assets/fate-heavens-feel3-heavens-feel3.gif" width="700"/>
 </p>
+
 
 
 ---
@@ -32,15 +33,6 @@
   <!-- เพิ่ม tech อื่นๆ ที่คุณใช้ -->
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
 
 ---
 
@@ -52,6 +44,6 @@
 
 ---
 
-### 🧠 Quote ที่สร้างแรงบันดาลใจ
+### 🧠 แรงบันดาลใจ
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
