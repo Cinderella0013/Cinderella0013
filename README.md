@@ -38,9 +38,9 @@
 
 ### 🔗 ลิงก์อื่น ๆ
 
-- [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/wissarut-taiyawong-0aa3b6236/))
+- [LinkedIn](https://www.linkedin.com/in/wissarut-taiyawong-0aa3b6236/)
 - [Portfolio Website](https://yourportfolio.com)
-- [Blog]([https://yourblog.com](https://www.instagram.com/wis.sar.u1/))
+- [Blog]((https://www.instagram.com/wis.sar.u1)
 
 ---
 
