@@ -40,7 +40,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/wissarut-taiyawong-0aa3b6236/)
 - [Portfolio Website](https://yourportfolio.com)
-- [Blog]((https://www.instagram.com/wis.sar.u1)
+- [Blog](https://www.instagram.com/wis.sar.u1)
 
 ---
 
